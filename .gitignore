@@ -380,7 +380,9 @@ MigrationBackup/
 *.out
 *.app
 
-
+# ignore big files
+data/
+flower_photos/
 
 
 
